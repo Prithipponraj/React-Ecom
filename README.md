@@ -1,12 +1,16 @@
-<<<<<<< HEAD
-# React-Ecomm-Page
-=======
-# React + Vite
+** Shopping Cart Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to browse products and manage a shopping cart using a modal interface.
 
-Currently, two official plugins are available:
+** Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> ac347ee (first commit)
+- Fetch products from Fake Store API
+- Responsive design using Tailwind CSS
+- Add products to the cart
+- Alert for already added products
+- Modal for cart management
+- Remove products from the cart
+
+** Deployment
+
+The application is deployed on [Netlify](https://reactecomproject.netlify.app/).
